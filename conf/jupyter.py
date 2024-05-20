@@ -1,6 +1,3 @@
-c = get_config()
-
-
 import os
 c = get_config()
 # Kernel config
